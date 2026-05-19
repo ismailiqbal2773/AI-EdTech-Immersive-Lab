@@ -2,9 +2,11 @@
 Real-time Computer Vision Hand-Tracking for 3D Educational Simulations
 
 🚀 Overview
+
 The AI-EdTech Immersive Lab bridges the gap between static educational content and interactive technology. By leveraging real-time computer vision, this project allows teachers to manipulate 3D educational models (GLB/GLTF) directly using hand gestures, providing a seamless and highly engaging way to explain complex History or Science concepts.
 
 🌟 Key Features
+
 Smart Teacher-Zone Isolation: An integrated AI Face-Eraser module filters out facial and bodily movements, ensuring the 3D model only responds to deliberate hand gestures.
 
 Intuitive Gesture Control: Uses real-time geometric analysis to detect hand positioning and spread (pinch-to-zoom) gestures.
@@ -14,6 +16,7 @@ Zero-Dependency Core: Built using optimized OpenCV algorithms, eliminating the n
 Dynamic Content Loader: Automatically organizes and fetches 3D models based on your local directory structure.
 
 🛠 Tech Stack
+
 Computer Vision: OpenCV (Haar Cascades, Contour Analysis, Skin Segmentation)
 
 Backend: FastAPI, Uvicorn
@@ -41,10 +44,13 @@ models/
     └── History/
     
         └── historical_artifact.glb
+        
 🚀 How to Run
+
 Clone the repository:
 
 Bash
+
 git clone https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git
 
 cd Interactive-3D-AI-HistoryScience-Sandbox
