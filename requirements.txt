@@ -1,0 +1,9 @@
+# Computer Vision & Hand Tracking
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+
+# Frontend-Backend Communication
+websockets>=11.0
+asyncio>=3.4.3
+
+pip uninstall mediapipe -y
