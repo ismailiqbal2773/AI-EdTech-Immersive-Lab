@@ -35,7 +35,7 @@ models/
 Clone the repository:
 
 Bash
-git clone [https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git](https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git)
+git clone [https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git]
 cd AI-EdTech-Immersive-Lab
 Activate your environment:
 
