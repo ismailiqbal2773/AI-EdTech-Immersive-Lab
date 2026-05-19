@@ -37,13 +37,13 @@ Clone the repository:
 Bash
 git clone [https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git]
 cd AI-EdTech-Immersive-Lab
-Activate your environment:
 
+Activate your environment:
 Bash
 myenv\Scripts\activate
+
 Launch the Application:
 Run the application using the provided launcher or the command:
-
 Bash
 python main.py
 The application will automatically open in your default browser at http://127.0.0.1:8000.
@@ -57,3 +57,15 @@ Stable State: When your hand is removed from the camera's view, the model smooth
 
 🎓 About the Project
 This project is an exploration of Human-Computer Interaction (HCI). It utilizes Color-based Segmentation and Geometric Feature Extraction to interpret human intent. The Face-Eraser logic is a custom implementation of Haar Cascade classifiers, preventing interference during live presentations.
+
+📬 Connect With Me
+👨‍💻 Muhammad Ismail Iqbal
+GitHub: https://github.com/ismailiqbal2773
+LinkedIn: https://www.linkedin.com/in/muhammad-ismail-iqbal/
+⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+📄 License
+
+This project is licensed under the MIT License.
