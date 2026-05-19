@@ -40,9 +40,7 @@ models/
 │       └── heart_model.glb
 
 └── Grade_10/
-
-    └── History/
-    
+    └── History/    
         └── historical_artifact.glb
         
         
