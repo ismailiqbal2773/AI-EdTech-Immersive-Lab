@@ -25,20 +25,30 @@ To organize your educational content, use the following directory structure insi
 
 Plaintext
 models/
+
 ├── Grade_9/
+
 │   ├── Physics/
+
 │   │   └── atom_model.glb
+
 │   └── Biology/
+
 │       └── heart_model.glb
+
 └── Grade_10/
+
     └── History/
+    
         └── historical_artifact.glb
 🚀 How to Run
 Clone the repository:
 
 Bash
-git clone https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab
+git clone https://github.com/ismailiqbal2773/AI-EdTech-Immersive-Lab.git
+
 cd Interactive-3D-AI-HistoryScience-Sandbox
+
 Activate your environment:
 
 Bash
