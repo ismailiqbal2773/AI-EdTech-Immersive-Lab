@@ -23,27 +23,19 @@ Backend: FastAPI, Uvicorn
 
 Frontend: Three.js, WebGL, WebSocket (for real-time streaming)
 
-📁 Folder Structure
-To organize your educational content, use the following directory structure inside the models/ folder:
+### 📁 Folder Structure
+To organize your educational content, use the following directory structure inside the `models/` folder:
 
-Plaintext
+```text
 models/
-
 ├── Grade_9/
-
 │   ├── Physics/
-
 │   │   └── atom_model.glb
-
 │   └── Biology/
-
 │       └── heart_model.glb
-
 └── Grade_10/
-
-    └── History/   
-    
-        └── historical_artifact.glb        
+    └── History/
+        └── historical_artifact.glb   
         
 🚀 How to Run
 
