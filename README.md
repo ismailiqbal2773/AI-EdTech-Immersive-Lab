@@ -28,6 +28,7 @@ To organize your educational content, use the following directory structure insi
 
 Plaintext
 models/
+
 ├── Grade_9/
 
 │   ├── Physics/
@@ -42,8 +43,7 @@ models/
 
     └── History/   
     
-        └── historical_artifact.glb
-        
+        └── historical_artifact.glb        
         
 🚀 How to Run
 
